@@ -5,7 +5,7 @@ Hello! I am a Finance student at Lehigh University, earning my BA in May 2024. I
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="[(https://github.com/reghanhesser/personal-website/blob/master/headshot.jpeg)]" width="100%">
+  <img class="img-circle" src="[((https://github.com/reghanhesser/personal-website/blob/master/headshot.jpeg?raw=true))]" width="100%">
 </p>
 
 
