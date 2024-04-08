@@ -1,8 +1,6 @@
 ## About Me
 
-What's up? hey\|you
-
-I am an awesome student at Lehigh, you should hire me!
+Hello! I am a Finance student at Lehigh University, earning my BA in May 2024. I look forward to my Wealth Management post-grad position in Philadelphia. In my free time, I love to cook, style clothing, lift weights, and host dinner parties for my friends.
 
 <!-- Upload your own photo and change the path -->
 
