@@ -1,12 +1,13 @@
 ## About Me
 
-Hello! I am a Finance student at Lehigh University, earning my BA in May 2024. I look forward to my Wealth Management post-grad position in Philadelphia. In my free time, I love to cook, style clothing, lift weights, and host dinner parties for my friends.
+Hello! I am a Finance student at Lehigh University, earning my BA in May 2024. I look forward to my Wealth Management post-grad position in Philadelphia. However, my true passions lie within the food/home media industry, so I am still applying for finance and strategic planning positions within those fields. In my free time, I love to cook, style clothing, lift weights, and host dinner parties for my friends.
 
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
+  <img class="img-circle" src="https://example.com/your-photo.png" width="50%">
 </p>
+
 
 ---
 
