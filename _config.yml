@@ -1,11 +1,14 @@
 title: Reghan Hesser # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: <p style="text-align:center;">
+  <img class="img-circle" src="https://github.com/reghanhesser/personal-website/raw/master/headshot.jpeg" width="100%">
+</p>
+ # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Edit these links below   
   <br>
   in _config.yml 
   <br><br>
-  <a href="https://www.linkedin.com/in/donbowen-lehigh/">LinkedIn</a> 
+  <a href= "https://www.linkedin.com/in/reghan-hesser-8a2697205/"
   <br>
   <a href="https://bowen.finance/cv/" class="btn btn--info">Resume</a>  
   <br>
