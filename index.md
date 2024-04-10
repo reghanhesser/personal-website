@@ -1,6 +1,6 @@
 ## About Me
 
-Hello! I am a Finance student at Lehigh University, earning my BA in May 2024. I look forward to my Wealth Management post-grad position in Philadelphia. However, my true passions lie within the food/home media industry, so I am still applying for finance and strategic planning positions within those fields. In my free time, I love to cook, style clothing, lift weights, and host dinner parties for my friends.
+Hello! I am a Finance student at Lehigh University, earning my BA in May 2024. Originally from Scranton, PA, I plan on staying on the East Coast post-grad. Here at Lehigh, I am on the executive boards of the Alpha Phi sorority and the Lehigh Italian Club, and I tutor local middle schoolers at the Bethlehem Public Library. In my free time, I love to cook, style clothing, lift weights, and host dinner parties for my friends.
 
 <!-- Upload your own photo and change the path -->
 
@@ -40,15 +40,9 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+I look forward to my Wealth Management post-grad position in Philadelphia. However, my true passions lie within the food/home media industry, so I am still applying for finance and strategic planning positions within those fields. Having spent a semester of college in Paris, France, studying Luxury Brand Marketing and Management, I am also interested in a career working with brand partnerships for media companies. 
 
 ---
-
-## Hobbies
-
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
