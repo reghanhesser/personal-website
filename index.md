@@ -1,6 +1,6 @@
 ## About Me
 
-Hello! I am a Finance student at Lehigh University, earning my BA in May 2024. Originally from Scranton, PA, I plan on staying on the East Coast post-grad. Here at Lehigh, I am on the executive boards of the Alpha Phi sorority and the Lehigh Italian Club, and I tutor local middle schoolers at the Bethlehem Public Library. In my free time, I love to cook, style clothing, lift weights, and host dinner parties for my friends.
+Hello! I am a Finance student at Lehigh University, earning my BA in May 2024. Originally from Scranton, PA, I plan on staying on the East Coast post-grad. Here at Lehigh, I am on the executive boards of the Alpha Phi sorority and the Lehigh Italian Club, and I tutor local middle schoolers at the Bethlehem Public Library. In my free time, I love to cook, style clothing, lift weights, and host dinner parties for my friends. 
 
 <!-- Upload your own photo and change the path -->
 
