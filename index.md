@@ -18,7 +18,7 @@ You can show off your midterm analysis by moving the report components and outpu
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
+_**[Regression Practice](Report.ipynb)**_
 
 Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
 
@@ -26,7 +26,7 @@ Or: The process that created this page can be used to show off your whole midter
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**Optimizing Retirement Portfolios Given Investment Parameters(https://donbowen.github.io/teamproject/)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
