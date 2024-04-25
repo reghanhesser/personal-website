@@ -10,17 +10,16 @@ Hello! I am a Finance student at Lehigh University, earning my BA in May 2024. O
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
+_**[Natural language processing 10-Ks to identify risks](Report.md))**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
-
+Linked are the findings from a project where I measured sentiment in 10k files and compared this sentiment to the returns of each firm to determine whether positive or negative sentiment has a direct relationship to returns. 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 _**[Regression Practice](Report.md)**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
+Linked is the report from a project where I practiced regression analysis.
 
 <img src="images/regression_image.jpeg?raw=true"/>
 
