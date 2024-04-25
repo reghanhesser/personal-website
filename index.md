@@ -10,7 +10,7 @@ Hello! I am a Finance student at Lehigh University, earning my BA in May 2024. O
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](Report.md))**_
+_**[Natural language processing 10-Ks to identify risks](Report.md)**_
 
 Linked are the findings from a project where I measured sentiment in 10k files and compared this sentiment to the returns of each firm to determine whether positive or negative sentiment has a direct relationship to returns. 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
