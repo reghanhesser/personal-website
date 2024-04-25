@@ -18,11 +18,11 @@ You can show off your midterm analysis by moving the report components and outpu
 
 ---
 
-_**[Regression Practice](Report.ipynb)**_
+_**[Regression Practice](Report.md)**_
 
 Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/regression_image.jpeg?raw=true"/>
 
 ---
 
