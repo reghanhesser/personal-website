@@ -6,7 +6,7 @@ Hello! I am a Finance student at Lehigh University, earning my BA in May 2024. O
 
 ---
 
-## Portfolio
+## My Projects
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
