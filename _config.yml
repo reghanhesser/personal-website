@@ -11,3 +11,6 @@ description: > # Your text below (remove <br> elements if you don't need line br
   <a href='https://www.instagram.com/reghanhesser/'>Instagram</a>  
   
 theme: jekyll-theme-minimal
+body {
+    background-color: #ff69b4; /* Pink background color */
+}
