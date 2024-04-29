@@ -31,7 +31,7 @@ _**[Optimizing Retirement Portfolios Given Investment Parameters](https://older-
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+_**[Personal ESG Scoring on Consumer Airline Companies](path/to/ESG/presentation.pptx)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
