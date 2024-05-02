@@ -27,8 +27,7 @@ Linked is the report from a project where I practiced regression analysis.
 
 _**[Optimizing Retirement Portfolios Given Investment Parameters](https://older-smarter-richer.streamlit.app/)**_
 
-<img src="images/Richer.png
-  ?raw=true"/>
+<img src="images/Richer.png?raw=true"/>
 
 ---
 
